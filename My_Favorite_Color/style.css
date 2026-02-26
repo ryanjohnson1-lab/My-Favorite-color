@@ -1,0 +1,29 @@
+/* Sets up the page */
+html {
+height: 100%;
+width: 100%;
+}
+/* Sets up background color */
+body {
+background-color:hotpink;
+
+}
+/* Sets up heading 2 */
+h1 {
+color:gold;
+font-family: 'Brush Script MT', cursive;
+font-size:50px;
+}
+/* Sets up the paragraph */
+p {
+    color:white;
+    font-size:20px;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+/* Sets up heading 4 */
+h2 {
+    font-family: 'Courier New', monospace;
+    font-size: larger;
+    color:yellow;
+    font-size:30px;
+}
